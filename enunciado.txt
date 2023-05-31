@@ -1,0 +1,5 @@
+12. Crear un microservicio para una aplicación de reserva de restaurantes. Debe permitir buscar restaurantes disponibles, realizar reservas y consultar por ubicación o tipo de cocina.
+
+* PATRONES DE DISEÑO 
+* INYECCIONES DE DEPENDENCIAS
+* ESTRUCTURAS HEXAGONALES
